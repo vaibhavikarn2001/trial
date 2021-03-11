@@ -1,0 +1,139 @@
+.my_nav_bar{
+    text-decoration-color: floralwhite;
+    background-color: black;
+    font-family: 'Abril Fatface', cursive;
+    position: sticky;
+}
+h3{
+    color:white;
+}
+.nav1:hover{
+    background-color: #200b75;
+}
+.nav2:hover{
+    background-color: #200b75;
+}
+.nav2:hover{
+    background-color: #200b75;
+}
+.nav3:hover{
+    background-color: #200b75;
+}
+.nav4:hover{
+    background-color: #200b75;
+}
+.nav5:hover{
+    background-color: #200b75;
+}
+.nav6:hover{
+    background-color: #200b75;
+}
+.nav7:hover{
+    background-color: #200b75;
+}
+.myname{
+    color:white;
+    margin-bottom: 100px;
+}
+.container {
+  
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 60%;
+  left: 70%;
+  transform: translate(0%, 100%);
+    color: white;
+    font-size: 60px;
+    font-family: 'Abril Fatface', cursive;
+}
+.centered2{
+  position: absolute;
+  top: 78%;
+  left: 70%;
+  transform: translate(0%, 100%);
+    color: white;
+    font-size: 32px;
+    font-family: 'Abril Fatface', cursive;
+}
+.top-right {
+  position: absolute;
+  top: 27%;
+    border-radius: 50%;
+    left:70%;
+}
+.centered3{
+  position: absolute;
+  top: 78%;
+  left: 66%;
+  transform: translate(0%, 100%);
+    color: white;
+    font-size: 32px;
+    font-family: 'Great Vibes', cursive;
+}
+fa-envelope{
+    width: 50px;
+    height:50px;
+    margin-left: 30px;
+}
+.ab{
+    font-family:'Fredoka One', cursive;
+    border-radius: 30%;
+    top:95%;
+}
+p{
+    font-family: 'Fredoka One', cursive;
+    font-size:20px;
+    
+    }
+.centered4{
+  position: absolute;
+  top: 120%;
+  left: 66%;
+  transform: translate(0%, 100%);
+    color: white;
+    font-size: 32px;
+    font-family: 'Abril Fatface', cursive;
+}
+.p{
+    color:azure;
+    font-size:25px;
+}
+.centered5{
+  position: absolute;
+  top: 96%;
+  left: 66%;
+  transform: translate(0%, 100%);
+    color: white;
+    font-size: 32px;
+    font-family: 'Abril Fatface', cursive;
+}
+body{
+    background:linear-gradient(to right, #1b1e75,#043047);
+}
+u{
+    color:white;
+}
+center{
+    font-family: 'Great Vibes', cursive;
+    color:aliceblue;
+   
+}
+
+html{
+    scroll-behavior:smooth;
+}
+.heading{
+     font-size: 40px;
+}
+
+fa-instagram{
+    width: 50px;
+    height:50px;
+    margin-left: 30px;
+}
+h2{
+    font-size: 45px;
+}
